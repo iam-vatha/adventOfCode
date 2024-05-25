@@ -1,4 +1,3 @@
-import { log } from 'console';
 import { data } from './input'
 
 const getNumbersFromStringArray = async (str: string): Promise<number[]> => {
